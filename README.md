@@ -43,7 +43,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 #### 入门教程
 
-- [云服务环境搭建/应用搭建-腾讯云-开发者实验室](https://cloud.tencent.com/developer/labs/gallery%20%E2%80%9C%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%90%E7%BB%B4%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91%E9%9B%86-%E8%85%BE%E8%AE%AF%E4%BA%91-%E5%BC%80%E5%8F%91%E8%80%85%E5%AE%9E%E9%AA%8C%E5%AE%A4%E2%80%9D)
+- [云服务环境搭建/应用搭建-腾讯云-开发者实验室](https://cloud.tencent.com/developer/labs/gallery)
 
 - [从零开始搭建自己的nodejs服务器以及配置域名解析+https证书配置 （以阿里云linux服务器为例）](https://segmentfault.com/a/1190000014380487)
 
