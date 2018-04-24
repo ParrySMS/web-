@@ -1,4 +1,5 @@
-web开发文章分享
+web开发文章分享( 非商业用途，部分文章为转载，如有侵权，请邮件联系 test@szer.me)
+
 20180415
 
 ### 1 趣闻杂记
@@ -55,7 +56,13 @@ web开发文章分享
 
 - [ 无法连接数据库问题的解决思路](https://blog.csdn.net/parrysms/article/details/79797475)
 - [SQLyog以excel文件导入mysql数据库失败：[Microsoft][ODBC Excel 驱动程序] 保留错误 (-5016)； 没有这种错误的消息](https://blog.csdn.net/parrysms/article/details/78592479)
+- [MYSQL数据库（六）- 外键约束的参照操作](https://blog.csdn.net/bobo89455100/article/details/72882872)
 
 
 ----------  
 ### 9 测试
+
+
+---------
+### 10 计算机知识
+- [并发执行，进程同步，进程互斥，异步，并行，多线程的区别](https://blog.csdn.net/yjk13703623757/article/details/78029206)
