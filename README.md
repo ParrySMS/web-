@@ -25,6 +25,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 #### 技术细节
 - [原生js写的轮播插件，支持轮播速度，轮播内容，轮播间隔，滑动灵敏度自定义](https://github.com/jgchenu/slide.js)
+- [原生js实现的下拉手势插件，里面包含了源码的注释](https://github.com/jgchenu/dropDown)
 
 ----------  
 ### 6 后端开发
