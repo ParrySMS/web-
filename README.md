@@ -9,9 +9,12 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 ---------
 ### 2 产品设计
 
+- [百度内部培训PPT流出：数据分析的道与术](https://mp.weixin.qq.com/s/pQKBd6paibNcLt8odAKfqw)
+
 ----------  
 ### 3 交互设计
 
+- [8年资深设计师：间距不会调？掌握这一个点，从此不再迷茫](https://mp.weixin.qq.com/s/LwIH_EIXqIXp3-D5qAF5Tw)
 
 ----------  
 ### 4 微信开发
@@ -49,11 +52,17 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [怎样深入了解和学习前端 MVC 架构？](https://www.zhihu.com/question/20135390)
 
+- [Swoole: 面向生产环境的 PHP 异步网络通信引擎 编写高性能的异步并发 TCP、UDP、Unix Socket、HTTP，WebSocket 服务](https://linkeddestiny.gitbooks.io/easy-swoole/content/book/preface.html)
+
+- [Workerman: 一款纯PHP开发的开源高性能的PHP socket 服务器框架](http://doc.workerman.net/)
+
 #### 技术细节
 
 - [PHP FFI 允许在 PHP 脚本中嵌入原始 C 代码](https://mp.weixin.qq.com/s/nBwvmw3vQ67FU3hLCyGudw)
 
 - [Medoo 微框架的细节小坑](https://blog.csdn.net/parrysms/article/details/79198276)
+
+- [如何在windows系统下安装swoole](https://www.cnblogs.com/itsuibi/p/8995137.html)
 
 
 ----------  
@@ -84,6 +93,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 ----------  
 ### 9 测试
 
+- [Postman 模拟http请求测试接口](https://zhuanlan.zhihu.com/p/37853392)
 
 ---------
 ### 10 计算机知识
