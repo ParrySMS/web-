@@ -58,6 +58,10 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 #### 技术细节
 
+- [PHP 中 include 和 require 的区别详解](http://www.runoob.com/w3cnote/php-different-include-and-require.html)
+
+- [PHP自动加载 spl_autoload_register, 拒绝手动require一堆文件](https://blog.csdn.net/zhou16333/article/details/71305985)
+
 - [PHP FFI 允许在 PHP 脚本中嵌入原始 C 代码](https://mp.weixin.qq.com/s/nBwvmw3vQ67FU3hLCyGudw)
 
 - [Medoo 微框架的细节小坑](https://blog.csdn.net/parrysms/article/details/79198276)
@@ -74,6 +78,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [从零开始搭建自己的nodejs服务器以及配置域名解析+https证书配置 （以阿里云linux服务器为例）](https://segmentfault.com/a/1190000014380487)
 
+- [SSL证书安装指引](https://cloud.tencent.com/document/product/400/4143)
+
 #### 解决方案
 - [ Ubuntu安装宝塔面板之后无法访问云数据库--原因:服务器出站规则设置](https://blog.csdn.net/parrysms/article/details/79606582)
 
@@ -89,6 +95,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [MYSQL数据库（六）- 外键约束的参照操作](https://blog.csdn.net/bobo89455100/article/details/72882872)
 
 - [数据库SQL SELECT查询的工作原理](http://www.nowamagic.net/librarys/veda/detail/1923)
+
+- [深入浅出数据库索引原理](https://www.cnblogs.com/aspwebchh/p/6652855.html)
 
 ----------  
 ### 9 测试
