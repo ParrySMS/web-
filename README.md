@@ -58,6 +58,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 #### 技术细节
 
+- [php unset()详解](https://blog.csdn.net/belen_xue/article/details/53555798)
+
 - [PHP 中 include 和 require 的区别详解](http://www.runoob.com/w3cnote/php-different-include-and-require.html)
 
 - [PHP自动加载 spl_autoload_register, 拒绝手动require一堆文件](https://blog.csdn.net/zhou16333/article/details/71305985)
