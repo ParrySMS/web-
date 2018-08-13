@@ -41,6 +41,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [原生js实现的下拉手势插件，里面包含了源码的注释](https://github.com/jgchenu/dropDown)
 
+- [不要再问我跨域的问题了](https://segmentfault.com/a/1190000015597029)
 
 
 ----------  
@@ -90,7 +91,9 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 ----------  
 ### 8 数据库
 
-- [ 无法连接数据库问题的解决思路](https://blog.csdn.net/parrysms/article/details/79797475)
+- [PHP 中执行排序与 MySQL 中排序 ](http://dbanotes.net/arch/php_mysql_sort.html)
+
+- [无法连接数据库问题的解决思路](https://blog.csdn.net/parrysms/article/details/79797475)
 
 - [SQLyog以excel文件导入mysql数据库失败：[Microsoft][ODBC Excel 驱动程序] 保留错误 (-5016)； 没有这种错误的消息](https://blog.csdn.net/parrysms/article/details/78592479)
 
