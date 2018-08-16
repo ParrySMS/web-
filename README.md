@@ -6,6 +6,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [一段关于国产芯片和操作系统的往事](https://mp.weixin.qq.com/s/w63uRu-yT12Pmt9GYiNDvQ)
 
+- [融资2.5亿的国产浏览器之光，竟然只是谷歌浏览器换了层皮](https://mp.weixin.qq.com/s/8N-a68KEeJQM3FzQi_eYyg)
+
 ---------
 ### 2 产品设计
 
