@@ -61,6 +61,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 #### 技术细节
 
+- [流式分页方案探索](https://aotu.io/notes/2017/06/27/infinite-scrolling/index.html)
+
 - [php unset()详解](https://blog.csdn.net/belen_xue/article/details/53555798)
 
 - [PHP 中 include 和 require 的区别详解](http://www.runoob.com/w3cnote/php-different-include-and-require.html)
@@ -72,6 +74,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [Medoo 微框架的细节小坑](https://blog.csdn.net/parrysms/article/details/79198276)
 
 - [如何在windows系统下安装swoole](https://www.cnblogs.com/itsuibi/p/8995137.html)
+
+- [URL重写（rewrite）的具体实现与异常问题解决](http://exp.szer.me/parry/blog/wordpress/index.php/2018/08/27/rewrite/)
 
 
 ----------  
