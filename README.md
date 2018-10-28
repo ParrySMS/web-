@@ -53,6 +53,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [深入理解 MVC](https://zhuanlan.zhihu.com/p/35680070)
 
+- [PHP中最全的设计模式(23种)](https://my.oschina.net/botkenni/blog/1603660)
+
 - [怎样深入了解和学习前端 MVC 架构？](https://www.zhihu.com/question/20135390)
 
 - [Swoole: 面向生产环境的 PHP 异步网络通信引擎 编写高性能的异步并发 TCP、UDP、Unix Socket、HTTP，WebSocket 服务](https://linkeddestiny.gitbooks.io/easy-swoole/content/book/preface.html)
@@ -104,6 +106,10 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [SQLyog以excel文件导入mysql数据库失败：[Microsoft][ODBC Excel 驱动程序] 保留错误 (-5016)； 没有这种错误的消息](https://blog.csdn.net/parrysms/article/details/78592479)
 
 - [MYSQL数据库（六）- 外键约束的参照操作](https://blog.csdn.net/bobo89455100/article/details/72882872)
+
+- [MySQL外键设置中的的 Cascade、NO ACTION、Restrict、SET NULL](https://blog.csdn.net/tolcf/article/details/39034169)
+
+- [Mysql无法创建外键的原因](https://blog.csdn.net/wangpeng047/article/details/19624351)
 
 - [数据库SQL SELECT查询的工作原理](http://www.nowamagic.net/librarys/veda/detail/1923)
 
