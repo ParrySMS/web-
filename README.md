@@ -53,6 +53,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [深入理解 MVC](https://zhuanlan.zhihu.com/p/35680070)
 
+- [后端的轮子（四）--- 容器](https://segmentfault.com/a/1190000006245007)
+
 - [PHP中最全的设计模式(23种)](https://my.oschina.net/botkenni/blog/1603660)
 
 - [怎样深入了解和学习前端 MVC 架构？](https://www.zhihu.com/question/20135390)
@@ -62,6 +64,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [Workerman: 一款纯PHP开发的开源高性能的PHP socket 服务器框架](http://doc.workerman.net/)
 
 #### 技术细节
+
+- [PHP类中的重要知识点](https://blog.csdn.net/u011871037/article/details/51580008) 
 
 - [流式分页方案探索](https://aotu.io/notes/2017/06/27/infinite-scrolling/index.html)
 
@@ -80,6 +84,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [URL重写（rewrite）的具体实现与异常问题解决](http://exp.szer.me/parry/blog/wordpress/index.php/2018/08/27/rewrite/)
 
 
+
+
 ----------  
 ### 7 服务器运维
 
@@ -92,6 +98,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [SSL证书安装指引](https://cloud.tencent.com/document/product/400/4143)
 
 #### 解决方案
+
 - [ Ubuntu安装宝塔面板之后无法访问云数据库--原因:服务器出站规则设置](https://blog.csdn.net/parrysms/article/details/79606582)
 
 - [ win服务器下部署php项目磁盘被占满-原因: xdebug模块日志记录 ](https://blog.csdn.net/parrysms/article/details/78588376)
