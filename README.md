@@ -53,7 +53,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [深入理解 MVC](https://zhuanlan.zhihu.com/p/35680070)
 
-- [后端的轮子（四）--- 容器](https://segmentfault.com/a/1190000006245007)
+- [关于Http协议，你必须要知道的](https://www.imooc.com/article/255877)
 
 - [PHP中最全的设计模式(23种)](https://my.oschina.net/botkenni/blog/1603660)
 
@@ -97,6 +97,10 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [SSL证书安装指引](https://cloud.tencent.com/document/product/400/4143)
 
+- [这可能是最为详细的Docker入门吐血总结](https://www.imooc.com/article/255015)
+
+- [后端的轮子（四）--- docker容器](https://segmentfault.com/a/1190000006245007)
+
 #### 解决方案
 
 - [ Ubuntu安装宝塔面板之后无法访问云数据库--原因:服务器出站规则设置](https://blog.csdn.net/parrysms/article/details/79606582)
@@ -139,3 +143,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [ParrySMS](http://exp.szer.me/parry/blog/wordpress/)
  
+
+ ---------
+ 
+### 12 书籍推荐
