@@ -8,6 +8,10 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [融资2.5亿的国产浏览器之光，竟然只是谷歌浏览器换了层皮](https://mp.weixin.qq.com/s/8N-a68KEeJQM3FzQi_eYyg)
 
+- [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
+
+- [2018 年成為 Web 開發人員的路線圖](https://gitee.com/guanguans/developer-roadmap-chinese)
+
 ---------
 ### 2 产品设计
 
@@ -87,7 +91,9 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [URL重写（rewrite）的具体实现与异常问题解决](http://exp.szer.me/parry/blog/wordpress/index.php/2018/08/27/rewrite/)
 
+- [php 空格无法替换，utf-8空格惹的祸](https://www.cnblogs.com/oldphper/p/4128138.html)
 
+- [诡异的UTF8空格](https://my.oschina.net/thumber/blog/52810)
 
 
 ----------  
