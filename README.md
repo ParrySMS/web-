@@ -36,6 +36,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [小光光谈前端](https://segmentfault.com/a/1190000015796055)
 
+- [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 
 #### 架构思路
 
@@ -72,6 +73,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [Workerman: 一款纯PHP开发的开源高性能的PHP socket 服务器框架](http://doc.workerman.net/)
 
 #### 技术细节
+
+- [PHP 7 新特性(性能可以达到PHP 5.6的3倍) ](http://www.runoob.com/php/php7-new-features.html)
 
 - [PHP类中的重要知识点](https://blog.csdn.net/u011871037/article/details/51580008) 
 
@@ -161,6 +164,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [算法艺术与信息学竞赛:算法竞赛入门经典(第2版) 刘汝佳 (作者)](https://www.amazon.cn/dp/B00KVZ43PW/ref=sr_1_1?s=books&ie=UTF8&qid=1542965220)
 	>入门速刷，了解基本的小技巧
 
+	
 - [TCP/IP入门经典 第6版 （美) 乔·卡萨德 (作者), 王士喜、邢颖 (译者)](https://www.amazon.cn/dp/B07CPC39HK/ref=sr_1_1?ie=UTF8&qid=1542964350)
 	>适合快速了解基本的计算机网络内容，面试速刷
 
@@ -169,15 +173,18 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [Learning PHP设计模式 桑德 (William Sanders) (作者), 苏金国 (译者), 王宇飞 (译者), 等 (译者)](https://www.amazon.cn/dp/B00IJR2O9Q/ref=sr_1_1?ie=UTF8&qid=1542964732)
 	>需要一定的php基础，适合自己原生写了一些小项目之后看，可以提升结构性的认识，然后对框架有更好的理解
 
+	
 
 - [Web API的设计与开发 水野贵明 (作者), 盛荣 (译者)](https://www.amazon.cn/dp/B071GB3SLQ/ref=sr_1_1?s=books&ie=UTF8&qid=1542965015)
 - [RESTful Web APIs中文版 伦纳德·理查德森 (Leonard Richardson) (作者), 麦克·阿蒙森 (Mike Amundsen) (作者), 赵震一 (注译, 译者), 李哲 (注译, 译者)](https://www.amazon.cn/dp/B00KWGEI64/ref=sr_1_5?s=books&ie=UTF8&qid=1542965134)
 	>采用前后端分离，后端使用框架处理路由的时候，可以看下来学写高效优雅的API
 
+	
 
 - [重构:改善既有代码的设计 马丁·福勒 (Martin Fowler) (作者), 熊节 (译者)](https://www.amazon.cn/dp/B011LPUB42/ref=sr_1_1?s=books&ie=UTF8&qid=1542964920)
 	>需要项目经验，当开始觉得自己老是会重复做一些内容的时候，应该看一下这个书本。
 
+	
 
 - [计算机系统概论(原书第2版) 派特尔 (作者), 梁阿磊 (译者), 蒋兴昌 (译者), 林凌 (译者)](https://www.amazon.cn/dp/B0011F9OQE/ref=sr_1_1?s=books&ie=UTF8&qid=1542965456)
 	>简要地了解计算机底层结构，理解底层电路，汇编，高级语言之间的关系，进行一些简单的汇编编程。
