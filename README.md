@@ -12,6 +12,10 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [2018 年成為 Web 開發人員的路線圖](https://gitee.com/guanguans/developer-roadmap-chinese)
 
+- [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
+
+- [网络的演变](http://www.evolutionoftheweb.com/?hl=zh-cn)
+
 ---------
 ### 2 产品设计
 
