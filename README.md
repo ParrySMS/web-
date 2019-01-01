@@ -16,6 +16,8 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
 - [网络的演变](http://www.evolutionoftheweb.com/?hl=zh-cn)
 
+- [短网址安全浅谈](https://security.tencent.com/index.php/blog/msg/126)
+
 ---------
 ### 2 产品设计
 
