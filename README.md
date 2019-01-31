@@ -158,7 +158,7 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 ---------
 ### 11 成员博客
 
-- [jgchen](http://jgchen.xin)
+- [jgchen](https://github.com/jgchenu)
 
 - [ParrySMS](http://exp.szer.me/parry/blog/wordpress/)
  
