@@ -158,13 +158,18 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 
   > 适合细致摸清楚指针的各种操作，避免C++写bug的必读书籍
 
+
+
 - [算法艺术与信息学竞赛:算法竞赛入门经典(第2版) 刘汝佳 (作者)](https://www.amazon.cn/dp/B00KVZ43PW/ref=sr_1_1?s=books&ie=UTF8&qid=1542965220)
 
   >入门速刷，了解基本的小技巧
 
+
+
 - [TCP/IP入门经典 第6版 （美) 乔·卡萨德 (作者), 王士喜、邢颖 (译者)](https://www.amazon.cn/dp/B07CPC39HK/ref=sr_1_1?ie=UTF8&qid=1542964350)
 
   >适合快速了解基本的计算机网络内容，面试速刷
+
 
 
 - [Modern PHP(中文版) 乔希·洛克哈特 (Josh Lockhart) (作者), 安道 (译者)](https://www.amazon.cn/dp/B016MGW5G2/ref=sr_1_1?ie=UTF8&qid=1542964533)
@@ -177,14 +182,27 @@ web开发文章分享( 非商业用途，部分文章为转载，如有侵权，
 - [RESTful Web APIs中文版 伦纳德·理查德森 (Leonard Richardson) (作者), 麦克·阿蒙森 (Mike Amundsen) (作者), 赵震一 (注译, 译者), 李哲 (注译, 译者)](https://www.amazon.cn/dp/B00KWGEI64/ref=sr_1_5?s=books&ie=UTF8&qid=1542965134)
 	>采用前后端分离，后端使用框架处理路由的时候，可以看下来学写高效优雅的API
 
-	
+
 
 - [重构:改善既有代码的设计 马丁·福勒 (Martin Fowler) (作者), 熊节 (译者)](https://www.amazon.cn/dp/B011LPUB42/ref=sr_1_1?s=books&ie=UTF8&qid=1542964920)
-  >需要项目经验，当开始觉得自己老是会重复做一些内容的时候，应该看一下这个书本。
+  
+>需要项目经验，当开始觉得自己老是会重复做一些内容的时候，应该看一下这个书本。
+
+
 
 - [图灵程序设计丛书:算法(第4版) 塞奇威克 (Robert Sedgewick) (作者), 韦恩 (Kevin Wayne) (作者), 谢路云 (译者)](https://www.amazon.cn/dp/B009OCFQ0O/ref=sr_1_1?ie=UTF8&qid=1546010391)
-  >慢读，经典图书，有大量图示便于感性理解。
+  
+>慢读，经典图书，有大量图示便于感性理解。
+
+
 
 - [计算机系统概论(原书第2版) 派特尔 (作者), 梁阿磊 (译者), 蒋兴昌 (译者), 林凌 (译者)](https://www.amazon.cn/dp/B0011F9OQE/ref=sr_1_1?s=books&ie=UTF8&qid=1542965456)
 
-  >简要地了解计算机底层结构，理解底层电路，汇编，高级语言之间的关系，进行一些简单的汇编编程。
+>简要地了解计算机底层结构，理解底层电路，汇编，高级语言之间的关系，进行一些简单的汇编编程。
+
+
+
+- [ 高性能 MySQL(第3版) 施瓦茨(Baron Schwartz) (作者), 扎伊采夫(Peter Zaitsev) (作者), 特卡琴科(Vadim Tkachenko) (作者), 宁海元 (译者), 周振兴 (译者), 彭立勋 (译者) ](https://item.jd.com/11220393.html#crumb-wrap)
+- [ 高可用 MySQL (美) Charles Bell（查理斯·贝尔），Mats Kindahl（迈茨·肯德尔），Lars Thalmann（拉尔斯·塞尔曼） 著，宁青，唐李洋 译 ](https://item.jd.com/11774353.html)
+
+>对MySQL系统地梳理，需要一些基础的数据结构知识。虽然书中的例子和分析有些过时，但是内核逻辑性很好，深入浅出，看完之后再看看官方文档补一下新版本的特性即可。
